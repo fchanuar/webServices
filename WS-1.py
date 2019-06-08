@@ -43,8 +43,8 @@ tasks = [
         'id': 3,
         'nombre': u'Jugar Futbol',
         'descripcion': u'Elongar antes de empezar', 
-        'done': False,
-        'fecha': ''
+        'done': True,
+        'fecha': '12/05/2019'
     }
 ]
 
